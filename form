@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Document</title>
+</head>
+<body style="background-color: lightgray;">
+<form action="">
+<table cellspacing="10" cellpadding="0" border="0">
+<tr>
+<td style="padding-right: 100px;">Enter Your Name</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+<td style="padding-right: 100px;">Enter Your Mail-ID</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><input type="text"></td>
+</tr>
+<tr>
+    <td style="padding-right: 100px;">Choose Your Gender</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><input type="radio" name="gen" >Male
+<input type="radio" name="gen" style="margin-left: 0px;">
+</tr>
+<tr>
+<td style="padding-right: 100px;">Choose Your Password</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><input type="password"></td>
+</tr>
+<tr>
+<td style="padding-right: 100px;">Choose Your Password</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><input type="password"></td>
+</tr>
+<tr>
+<td style="padding-right: 100px;">Mobile No</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><input type="number"></td>
+</tr>
+<tr>
+<td style="padding-right: 100px;">Choose Your DOB</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><select name="" id="">
+<option value="">DD</option>
+</select>
+<select name="" id="">
+<option value="">MM</option>
+</select>
+<select name="" id="">
+<option value="">YYYY</option>
+</select>
+</td>
+</tr>
+<tr>
+<td style="padding-right: 100px;">Enter Your Address</td>
+<td style="padding-right: 40px;"></tdstyle>:</td>
+<td><textarea name="" id="" cols="20" rows="5"></textarea></td>
+</tr>
+<tr>
+<td style="padding-right: 100px;">Choose Your Location</td>
+<td style="padding-right: 4
+<option value="">Select</option>
+</select>
+</td>
+</tr>
+<tr>
+<td>
+<button name="Submit">Submit</button>
+<button name="Clear">Clear</button>
+</td>
+<td>
+</td>
+</tr>
+</table>
+</form>
+</body>
+</html>
